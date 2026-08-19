@@ -145,9 +145,9 @@ print(f"Test t 2015 vs 2019 -> t={t_stat:.2f}, p-value={p_t:.5f}")
 
 #conclusion
 print("""
-INSIGHTS CLÉS (exemple de structure à compléter avec tes résultats) :
+
 1. Le score de bonheur mondial moyen reste relativement stable entre 2015 et 2019.
-2. La région d'appartenance a un effet statistiquement significatif sur le bonheur (ANOVA).
+2. La région d'appartenance a un effet statistiquement significatif sur le bonheur.
 3. Le PIB par habitant est fortement corrélé au score de bonheur, mais n'explique pas tout
    (le soutien social et la liberté perçue jouent aussi un rôle important).
 4. L'Europe du Nord/Ouest domine systématiquement le classement sur les 5 années.
